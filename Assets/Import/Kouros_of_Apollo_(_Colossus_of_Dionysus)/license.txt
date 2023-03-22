@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kouros of Apollo ( Colossus of Dionysus)
+* source:	https://sketchfab.com/3d-models/kouros-of-apollo-colossus-of-dionysus-1e4c03c6f34b4f1696aa713c220c1e22
+* author:	tsabou (https://sketchfab.com/tsabou)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kouros of Apollo ( Colossus of Dionysus)" (https://sketchfab.com/3d-models/kouros-of-apollo-colossus-of-dionysus-1e4c03c6f34b4f1696aa713c220c1e22) by tsabou (https://sketchfab.com/tsabou) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

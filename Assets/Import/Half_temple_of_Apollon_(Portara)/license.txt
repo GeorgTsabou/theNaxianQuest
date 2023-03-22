@@ -1,0 +1,11 @@
+Model Information:
+* title:	Half temple of Apollon (Portara)
+* source:	https://sketchfab.com/3d-models/half-temple-of-apollon-portara-0d54b70cf8c842aaa7f7d6ac41d56cff
+* author:	tsabou (https://sketchfab.com/tsabou)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Half temple of Apollon (Portara)" (https://sketchfab.com/3d-models/half-temple-of-apollon-portara-0d54b70cf8c842aaa7f7d6ac41d56cff) by tsabou (https://sketchfab.com/tsabou) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
